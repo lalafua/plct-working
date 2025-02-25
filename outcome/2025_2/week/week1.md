@@ -1,4 +1,4 @@
-# 本周工作(2.10 ~ 2.17)
+# 本周工作（2.10 ~ 2.17）
 
 - 完成对 sim_llm 从 ROS2 到 ROS1 的移植: https://github.com/lalafua/sim_llm/releases/tag/ROS1-turtlesim
 
