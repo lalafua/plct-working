@@ -9,4 +9,4 @@
     - Bilibili: https://www.bilibili.com/video/BV13BPeeSEFg/
     - Youtube: https://youtu.be/UmF9l2ZmQ8Q
 
-- 更新说明文档：
+- 更新说明文档：https://github.com/lalafua/sim_llm/blob/ROS1/README.md
