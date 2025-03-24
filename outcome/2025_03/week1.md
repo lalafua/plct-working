@@ -1,4 +1,4 @@
-# 本周工作 （3.3 ~ 3.10）
+# 本周工作（3.3 ~ 3.10）
 
 - QEMU 启动 OpenEuler Riscv64 并跑通 ROS2 Humble 的 turtlesim 例程
 
