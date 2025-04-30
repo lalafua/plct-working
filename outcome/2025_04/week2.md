@@ -1,6 +1,6 @@
 # 本周工作（4.7 ~ 4.14）
 
-Lichee Pi 4A
+## Lichee Pi 4A
 - YOLOX 测试用例编译通过，用 cpu 运行正常
     - ![](../../assets/2025_04/picture_03.png)
     - ![](../../assets/2025_04/picture_02.jpg)
