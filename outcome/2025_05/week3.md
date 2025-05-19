@@ -10,4 +10,4 @@
     - 车架
     - 80 A 电调及无刷电机
 
-    ![](https://github.com/lalafua/plct-working/assets/2025_05/picture_02.png)
+    ![](https://github.com/lalafua/plct-working/blob/main/assets/2025_05/picture_02.png)
