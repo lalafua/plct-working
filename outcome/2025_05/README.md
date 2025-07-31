@@ -1,4 +1,4 @@
-# 本月工作 （ 2025-5 ）
+# 本月工作 （2025-5）
 
 1. 录制开放日演示视频，制作讲解 PPT
     - [视频](https://github.com/lalafua/sim_llm/blob/main/assets/demo_iscas.webm)
